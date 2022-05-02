@@ -1,0 +1,1 @@
+{"name":"hireGetCandidate","type":"function","source":{"https":"https://github.com/devthalal/_hirecandidate_hireGetCandidate","ssh":"git@github.com:devthalal/_hirecandidate_hireGetCandidate.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
