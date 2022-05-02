@@ -1,0 +1,1 @@
+This blox is to get the data of a single candidate
