@@ -13,3 +13,5 @@ const hireGetCandidate = async (req, res) => {
   res.end()
   
 }
+
+export default hireGetCandidate
